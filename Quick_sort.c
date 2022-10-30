@@ -59,7 +59,8 @@ void main() {
         printf("%5d   ", a[i]);
     }
 
-    getch()
+    getch();
+    
 }
 
 
